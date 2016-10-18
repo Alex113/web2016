@@ -1,0 +1,15 @@
+
+
+
+   hr {
+    border: none; /* Убираем границу */
+    background-color: lightgrey; /* Цвет линии */
+    color:lightgrey ; /* Цвет линии для IE6-7 */
+    height: 3px; /* Толщина линии */
+   }
+   footer{
+   	text-align:center;
+   }
+ 
+ 
+
